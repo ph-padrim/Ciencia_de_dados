@@ -1,1 +1,1 @@
-# Ciencia_de_dados
+# Curso de Ciência dos Dados
